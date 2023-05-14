@@ -1,0 +1,14 @@
+---
+title: "Final project presentation"
+author: "Team Name"
+date: "June 1, 2023"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
